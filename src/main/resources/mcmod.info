@@ -1,0 +1,16 @@
+[
+{
+  "modid": "doubancraft",
+  "name": "DouBan Craft",
+  "description": "§4 A Mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["§6 LDS_DB"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
