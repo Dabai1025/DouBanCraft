@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    " | ",
+    " | "
+  ],
+  "key": {
+    "|": {
+      "item": "minecraft:stick"
+    },
+    "_": {
+      "item": "doubancraft:dou_ban"
+    }
+  },
+  "result": {
+    "item": "doubancraft:douban_pickaxe"
+  }
+}

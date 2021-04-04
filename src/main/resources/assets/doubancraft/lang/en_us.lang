@@ -1,1 +1,6 @@
 item.doubancraft.douBan.name=DouBan
+item.doubancraft.douban_pickaxe.name=DouBan Pickaxe
+
+tile.doubancraftdouban_block.name=DouBan Block
+
+itemGroup.null=DouBan Craft

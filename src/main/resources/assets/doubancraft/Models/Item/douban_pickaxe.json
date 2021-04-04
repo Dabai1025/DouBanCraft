@@ -1,0 +1,6 @@
+{
+  "parent": "tool/generated",
+  "textures": {
+    "layer0": "doubancraft:items/dou_ban"
+  }
+}
