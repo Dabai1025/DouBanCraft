@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "result": { "item": "doubancraft:douban_ore", "count": 1 },
+  "ingredients": [
+    { "item": "minecraft:dirt", "data": 0},
+    { "item": "minecraft:iron_ore", "data": 0},
+    { "item": "minecraft:dye", "data": 1}
+  ]
+}

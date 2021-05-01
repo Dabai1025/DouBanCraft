@@ -1,1 +1,8 @@
 item.doubancraft.douBan.name=§6豆瓣
+item.doubancraft.douban_pickaxe.name=§a豆瓣镐
+item.doubancraft.douban_food.name=§a一碗豆瓣
+
+tile.doubancraftdouban_block.name=§a豆瓣块
+tile.doubancraftdouban_ore.name=§a豆瓣矿
+
+itemGroup.null=豆瓣工艺

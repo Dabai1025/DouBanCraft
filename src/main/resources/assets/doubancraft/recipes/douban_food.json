@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "result": { "item": "doubancraft:douban_food", "count": 1 },
+  "ingredients": [
+    { "item": "minecraft:bowl", "data": 0},
+    { "item": "doubancraft:dou_ban", "data": 0},
+    { "item": "doubancraft:dou_ban", "data": 0}
+  ]
+}

@@ -2,10 +2,10 @@
 {
   "modid": "doubancraft",
   "name": "DouBan Craft",
-  "description": "§4 A Mod",
+  "description": "§4A Mod",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "",
+  "url": "https://www.pronhub.com",
   "updateUrl": "",
   "authorList": ["§6 LDS_DB"],
   "credits": "",

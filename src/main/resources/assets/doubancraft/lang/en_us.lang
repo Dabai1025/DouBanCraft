@@ -1,1 +1,8 @@
 item.doubancraft.douBan.name=DouBan
+item.doubancraft.douban_pickaxe.name=DouBan Pickaxe
+item.doubancraft.douban_food.name=A bowl of snot
+
+tile.doubancraftdouban_block.name=DouBan Block
+tile.doubancraftdouban_ore.name=§bDouBan §cOre
+
+itemGroup.null=DouBan Craft
